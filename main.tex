@@ -1,13 +1,12 @@
-\documentclass[openany]{abntex2}
+\documentclass{article}
 \usepackage[utf8]{inputenc} 
 \usepackage[T1]{fontenc}       
 \usepackage{graphicx}       
-%\usepackage[style=abnt]{biblatex}
-%\usepackage[style=numeric,sorting=none]{biblatex}
+\usepackage[style=authoryear]{biblatex}
 \addbibresource{ref.bib}
+\usepackage[brazil]{babel}
 \usepackage{indentfirst}
 \setlength{\parindent}{1.5cm}
-\checkandfixthelayout
 \usepackage{float}
 \usepackage{longtable}
 \usepackage{hyperref}
@@ -20,9 +19,15 @@
 	\title{(Rascunho de artigo) Análise do perfil demográfico do eleitorado brasileiro}
 	\author{Lázaro Damasceno}
 	\maketitle
-
-	\include{}
-
+	
+	\include{resumo_br}
+	\include{resumo_en}
+	\include{introducao}
+	\include{referencial_teorico}
+	\include{procedimentos_metodologicos}
+	\include{resultados}
+	\include{conclusao}
+	
 	\printbibliography
 	
 \end{document}
