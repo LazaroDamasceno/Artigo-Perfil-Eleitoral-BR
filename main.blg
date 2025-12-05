@@ -1,11 +1,11 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'main.blg'
-[284] biber-MSWIN64:342> INFO - === 
-[359] Biber.pm:421> INFO - Reading 'main.bcf'
-[680] Biber.pm:1002> INFO - Found 1 citekeys in bib section 0
-[732] Biber.pm:4487> INFO - Processing section 0
-[759] Biber.pm:4678> INFO - Looking for bibtex file 'ref.bib' for section 0
-[841] bibtex.pm:1713> INFO - LaTeX decoding ...
-[852] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
-[866] Utils.pm:479> ERROR - BibTeX subsystem: C:\Users\lazar\AppData\Local\Temp\biber_tmp_MVp0\e800e2552f53b910154f366d4c3730d7_6244.utf8, line 4, syntax error: found "title", expected end of entry ("}" or ")") (skipping to next "@")
-[867] Biber.pm:137> INFO - ERRORS: 1
+[283] biber-MSWIN64:342> INFO - === 
+[358] Biber.pm:421> INFO - Reading 'main.bcf'
+[709] Biber.pm:1002> INFO - Found 1 citekeys in bib section 0
+[760] Biber.pm:4487> INFO - Processing section 0
+[784] Biber.pm:4678> INFO - Looking for bibtex file 'ref.bib' for section 0
+[867] bibtex.pm:1713> INFO - LaTeX decoding ...
+[877] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
+[888] Utils.pm:479> ERROR - BibTeX subsystem: C:\Users\lazar\AppData\Local\Temp\biber_tmp_4QuY\e800e2552f53b910154f366d4c3730d7_5024.utf8, line 4, syntax error: found "title", expected end of entry ("}" or ")") (skipping to next "@")
+[888] Biber.pm:137> INFO - ERRORS: 1
