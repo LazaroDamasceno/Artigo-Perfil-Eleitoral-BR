@@ -12,7 +12,13 @@
 \usepackage{graphicx}       
 \usepackage{float}
 \usepackage{longtable}
-\usepackage[style=authoryear]{biblatex}
+\usepackage[
+	style=apa, 
+	sortcites=true, 
+	backend=biber, 
+	natbib=true
+]{biblatex}
+\DeclareLanguageMapping{brazil}{brazil-apa}
 \addbibresource{ref.bib}
 \usepackage{hyperref}
 \usepackage{pgffor}
