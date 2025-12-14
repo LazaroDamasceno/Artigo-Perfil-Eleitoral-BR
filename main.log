@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.13)  13 DEC 2025 05:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.13)  14 DEC 2025 00:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1164,16 +1164,24 @@ r/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}]
 
 
 (figuras_grandes.tex
-<analise_dados/projecao_populacao/projecao_populacao_ano.png, id=34, 1048.1559p
+<analise_dados/projecao_populacao/projecao_populacao_ano.png, id=34, 1004.7939p
 t x 715.473pt>
 File: analise_dados/projecao_populacao/projecao_populacao_ano.png Graphic file 
 (type png)
 <use analise_dados/projecao_populacao/projecao_populacao_ano.png>
 Package pdftex.def Info: analise_dados/projecao_populacao/projecao_populacao_an
 o.png  used on input line 8.
-(pdftex.def)             Requested size: 1048.15334pt x 715.47127pt.
+(pdftex.def)             Requested size: 1004.79144pt x 715.47127pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.0pt on input line 9.
+<analise_dados/projecao_populacao/projecao_populacao_grupo_etario_ano.png, id=3
+6, 1005.0348pt x 715.473pt>
+File: analise_dados/projecao_populacao/projecao_populacao_grupo_etario_ano.png 
+Graphic file (type png)
+<use analise_dados/projecao_populacao/projecao_populacao_grupo_etario_ano.png>
+Package pdftex.def Info: analise_dados/projecao_populacao/projecao_populacao_gr
+upo_etario_ano.png  used on input line 16.
+(pdftex.def)             Requested size: 1005.03235pt x 715.47127pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1184,10 +1192,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2
 
-]
-Overfull \vbox (0.17348pt too high) has occurred while \output is active []
-
-
+ <./analise_dados/projecao_populacao/projecao_populacao_ano.png>])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1195,8 +1200,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3 <./analise_dados/projecao_populacao/projecao_populacao_ano.png>]) (main.aux
-(figuras_grandes.aux))
+[3 <./analise_dados/projecao_populacao/projecao_populacao_grupo_etario_ano.png>
+] (main.aux (figuras_grandes.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
@@ -1208,19 +1213,19 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27986 strings out of 467870
- 493896 string characters out of 5418354
- 1295281 words of memory out of 5000000
- 56468 multiletter control sequences out of 15000+600000
+ 27999 strings out of 467870
+ 494799 string characters out of 5418354
+ 1295355 words of memory out of 5000000
+ 56480 multiletter control sequences out of 15000+600000
  657924 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,11n,79p,695b,1692s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lazar/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.p
 fb><C:/Users/lazar/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.
 pfb>
-Output written on main.pdf (3 pages, 387617 bytes).
+Output written on main.pdf (3 pages, 832241 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 64 PDF objects out of 1000 (max. 8388607)
+ 12 named destinations out of 1000 (max. 500000)
+ 59 words of extra memory for PDF output out of 10000 (max. 10000000)
 
