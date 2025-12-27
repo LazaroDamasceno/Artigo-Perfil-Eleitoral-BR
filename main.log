@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.13)  15 DEC 2025 18:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.24)  26 DEC 2025 23:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,9 +6,9 @@ entering extended mode
 (main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+(/home/dam/.miktex/texmfs/install/tex/latex/base/article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+(/home/dam/.miktex/texmfs/install/tex/latex/base/size12.clo
 File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count275
@@ -23,15 +23,15 @@ File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(/home/dam/.miktex/texmfs/install/tex/generic/babel/babel.sty
 Package: babel 2025/11/09 v25.15 The multilingual framework for LuaLaTeX, pdfLa
 TeX and XeLaTeX
 \babel@savecnt=\count283
@@ -52,7 +52,7 @@ on input line 2083.
 \U@D=\dimen149
 \l@unhyphenated=\language79
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+(/home/dam/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count284
 Package babel Info: Configuration files are deprecated, as
@@ -62,12 +62,12 @@ Package babel Info: Configuration files are deprecated, as
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(/home/dam/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/invalid\
-babel-brazil.tex)
+(/home/dam/.miktex/texmfs/install/tex/generic/babel/locale/invalid/babel-brazil
+.tex)
 
 Package babel Warning: Name 'brazil' is deprecated.
 (babel)                Use 'brazilian' instead.
@@ -75,50 +75,47 @@ Package babel Warning: Name 'brazil' is deprecated.
 
 Package babel Info: Importing font and identification data for brazil
 (babel)             from babel-pt-BR.ini. Reported on input line 4298.
-
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
-n.ldf
+(/home/dam/.miktex/texmfs/install/tex/latex/babel-portuges/brazilian.ldf
 Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
 Package babel Info: Hyphen rules for 'brazil' set to \l@portuguese
 (babel)             (\language56). Reported on input line 111.
 Package babel Info: Making " an active character on input line 143.
 ))
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxtext.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/newtx/newtxtext.sty
 Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex su
 pport for TeXGyreTermesX
 
 `newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes a
 nd its extensions (msharpe)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/xpatch/xpatch.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty
 Package: expl3 2025-11-06 L3 programming layer (loader) 
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
+(/home/dam/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
-e.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2025-10-09 L3 Experimental document command parser
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count286
-)) (C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+))
+(/home/dam/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(/home/dam/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+(/home/dam/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+(/home/dam/.miktex/texmfs/install/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -128,47 +125,49 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-) (C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+)
+(/home/dam/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+(/home/dam/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+(/home/dam/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks19
 \XKV@tempa@toks=\toks20
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
+(/home/dam/.miktex/texmfs/install/tex/generic/xkeyval/keyval.tex))
 \XKV@depth=\count287
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+))
+(/home/dam/.miktex/texmfs/install/tex/latex/base/textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+(/home/dam/.miktex/texmfs/install/tex/latex/xstring/xstring.sty
+(/home/dam/.miktex/texmfs/install/tex/generic/xstring/xstring.tex
 \xs_counta=\count288
 \xs_countb=\count289
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
-) (C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+)
+(/home/dam/.miktex/texmfs/install/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+(/home/dam/.miktex/texmfs/install/tex/latex/carlisle/scalefnt.sty)
 LaTeX Font Info:    Setting ntxLF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 24.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+(/home/dam/.miktex/texmfs/install/tex/generic/binhex/binhex.tex)
 \ntx@tmpcnta=\count290
 \ntx@cnt=\count291
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/fontaxes/fontaxes.sty
 Package: fontaxes 2025-05-24 v2.0.1 Font selection axes (deprecated)
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/figureversions\figureve
-rsions.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/figureversions/figureversions.sty
 Package: figureversions 2025-04-29 v1.0.1 Figure versions
 ))
 \tx@sixem=\dimen150
@@ -186,29 +185,28 @@ Package: figureversions 2025-04-29 v1.0.1 Figure versions
 \tx@dimBB=\dimen162
 \tx@dimC=\dimen163
 LaTeX Info: Redefining \oldstylenums on input line 902.
-)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
+) (/home/dam/.miktex/texmfs/install/tex/latex/newtx/newtxmath.sty
 Package: newtxmath 2024/09/22 v1.754
 
 `newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe
-) (C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+) (/home/dam/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
 \ex@=\dimen164
 ))
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen165
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count292
@@ -259,11 +257,12 @@ LaTeX Info: Redefining \Relbar on input line 970.
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/oberdiek/centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
 \tx@cntz=\count304
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+
+(/home/dam/.miktex/texmfs/install/tex/generic/binhex/binhex.tex)
 \tx@Isdigit=\count305
 \tx@IsAlNum=\count306
 \tx@tA=\toks26
@@ -369,9 +368,10 @@ LaTeX Font Info:    Redeclaring math accent \ddot on input line 992.
 LaTeX Font Info:    Redeclaring math accent \vec on input line 2057.
 LaTeX Info: Redefining \Bbbk on input line 2847.
 LaTeX Info: Redefining \not on input line 2995.
-) (C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (/home/dam/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+
+(/home/dam/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count307
@@ -387,31 +387,31 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen180
 \Gm@dimlist=\toks29
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
+(/home/dam/.miktex/texmfs/install/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/tools/indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
+(/home/dam/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
 )
 \Gin@req@height=\dimen181
 \Gin@req@width=\dimen182
-) (C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+)
+(/home/dam/.miktex/texmfs/install/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count310
 \float@exts=\toks30
@@ -419,7 +419,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks31
 \@floatcapt=\box56
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/tools/longtable.sty
 Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LTleft=\skip54
 \LTright=\skip55
@@ -438,38 +438,37 @@ Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \c@LT@chunks=\count315
 \LT@p@ftn=\toks32
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
-.sty
+(/home/dam/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
+(/home/dam/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+(/home/dam/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+))
+(/home/dam/.miktex/texmfs/install/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count316
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+(/home/dam/.miktex/texmfs/install/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -533,13 +532,13 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.dbx
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex-apa/apa.dbx
 File: apa.dbx 2025/08/27 v9.20 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -639,12 +638,13 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 \c@textcitecount=\count441
 \c@textcitetotal=\count442
@@ -663,20 +663,20 @@ File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-natbib.def
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex/blx-natbib.def
 File: blx-natbib.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
  overwriting.
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
- (C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.bbx
+
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex-apa/apa.bbx
 File: apa.bbx 2025/08/27 v9.20 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
-bx
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count450
 \c@bbx:relatedtotal=\count451
@@ -693,7 +693,7 @@ Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.cbx
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex-apa/apa.cbx
 File: apa.cbx 2025/08/27 v9.20 APA biblatex citation style
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
  overwriting.
@@ -718,7 +718,7 @@ Package biblatex Info: Redefining '\textcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -728,51 +728,50 @@ Package biblatex Info: ... and expl3
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
-.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 ))
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
+(/home/dam/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
-ty
+(/home/dam/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+)
+(/home/dam/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+)
+(/home/dam/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
 Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
-lestring.sty
+(/home/dam/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count452
-)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
-ty
+) (/home/dam/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
 \@linkdim=\dimen184
 \Hy@linkcounter=\count453
 \Hy@pagecounter=\count454
- (C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+
+(/home/dam/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+)
+(/home/dam/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count455
- (C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+
+(/home/dam/.miktex/texmfs/install/tex/latex/hyperref/puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -788,11 +787,10 @@ Package hyperref Info: Bookmarks ON on input line 4462.
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen185
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(/home/dam/.miktex/texmfs/install/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
-.sty
+(/home/dam/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -812,59 +810,45 @@ Package hyperref Info: PDF/A mode OFF on input line 6108.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(/home/dam/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
 \Fld@listcount=\count461
 \c@bookmark@seq@number=\count462
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
-echeck.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
-ounter.sty
+(/home/dam/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 84.
 )
 \Hy@SectionHShift=\skip80
-)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
-y
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
-y
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--common.tex
+) (/home/dam/.miktex/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks33
 \pgfutil@tempdima=\dimen188
 \pgfutil@tempdimb=\dimen189
-)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--latex.def
+) (/home/dam/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box62
-)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
-code.tex
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+) (/home/dam/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
 ))
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
-ty
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-.code.tex
+(/home/dam/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks34
 \pgfkeys@temptoks=\toks35
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-libraryfiltered.code.tex
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeyslibraryfilte
+red.code.tex
 \pgfkeys@tmptoks=\toks36
 )))
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
-.tex
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
-code.tex
+(/home/dam/.miktex/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex
 \pgf@x=\dimen190
 \pgf@xa=\dimen191
 \pgf@xb=\dimen192
@@ -878,8 +862,7 @@ code.tex
 \c@pgf@countc=\count465
 \c@pgf@countd=\count466
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
-r.code.tex
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen198
 \pgfmath@count=\count467
 \pgfmath@box=\box63
@@ -887,39 +870,35 @@ r.code.tex
 \pgfmath@stack@operand=\toks38
 \pgfmath@stack@operation=\toks39
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.code.tex)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.basic.code.tex)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.trigonometric.code.tex)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.random.code.tex)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.comparison.code.tex)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.base.code.tex)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.round.code.tex)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.misc.code.tex)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.integerarithmetics.code.tex)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.te
+x)
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.c
+ode.tex)
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigono
+metric.code.tex)
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random.
 code.tex)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
-.code.tex
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.compari
+son.code.tex)
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.co
+de.tex)
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.c
+ode.tex)
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.co
+de.tex)
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integer
+arithmetics.code.tex)
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/home/dam/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count468
-)))
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
-code.tex
+))) (/home/dam/.miktex/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 \pgffor@iter=\dimen199
 \pgffor@skip=\dimen256
 \pgffor@stack=\toks40
 \pgffor@toks=\toks41
 ))
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 
 \f@nch@headwidth=\skip81
@@ -938,7 +917,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthR=\skip94
 \@temptokenb=\toks42
 )
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.sty
+(/home/dam/.miktex/texmfs/install/tex/latex/chngcntr/chngcntr.sty
 Package: chngcntr 2018/04/09 v1.1a change counter resetting
 Package chngcntr Info: \counterwithout already defined.
 (chngcntr)             Quitting chngcntr on input line 21.
@@ -946,7 +925,7 @@ Package chngcntr Info: \counterwithout already defined.
 LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line
  32.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\t1ntxtlf.fd
+(/home/dam/.miktex/texmfs/install/tex/latex/newtx/t1ntxtlf.fd
 File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
@@ -967,8 +946,7 @@ Package babel Info: 'brazil' activates 'portuges' shorthands.
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 32.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
  32.
-
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
+ (/home/dam/.miktex/texmfs/install/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
 LaTeX Font Info:    ... okay on input line 32.
@@ -986,7 +964,7 @@ LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 32.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
 32.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
+(/home/dam/.miktex/texmfs/install/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
 LaTeX Font Info:    ... okay on input line 32.
@@ -994,7 +972,7 @@ LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 32.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
  32.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
+(/home/dam/.miktex/texmfs/install/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
 LaTeX Font Info:    ... okay on input line 32.
@@ -1002,7 +980,7 @@ LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 32.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
 e 32.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
+(/home/dam/.miktex/texmfs/install/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
 LaTeX Font Info:    ... okay on input line 32.
@@ -1011,8 +989,7 @@ LaTeX Font Info:    ... okay on input line 32.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
-ii
+(/home/dam/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count471
 \scratchdimen=\dimen257
@@ -1025,15 +1002,12 @@ ii
 \MPnumerator=\count475
 \makeMPintoPDFobject=\count476
 \everyMPtoPDFconversion=\toks44
-)
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
-ase.sty
+) (/home/dam/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
-fg
+(/home/dam/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \c@mv@tabular=\count477
@@ -1081,35 +1055,30 @@ Package biblatex Warning: File 'brazil-apa.lbx' not found!
 
 Package biblatex Info: Trying to load language 'brazil'...
 Package biblatex Info: ... file 'brazil.lbx' found.
-
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazil.lbx
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex/lbx/brazil.lbx
 File: brazil.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-apa'..
 .
 Package biblatex Info: ... file 'brazilian-apa.lbx' found.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\brazilian-
-apa.lbx
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex-apa/brazilian-apa.lbx
 File: brazilian-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'brazilian'...
 Package biblatex Info: ... file 'brazilian.lbx' found.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazilian.
-lbx
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex/lbx/brazilian.lbx
 File: brazilian.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 ))
 Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-apa'..
 .
 Package biblatex Info: ... file 'brazilian-apa.lbx' found.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\brazilian-
-apa.lbx
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex-apa/brazilian-apa.lbx
 File: brazilian-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'brazilian'...
 Package biblatex Info: ... file 'brazilian.lbx' found.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazilian.
-lbx
+(/home/dam/.miktex/texmfs/install/tex/latex/biblatex/lbx/brazilian.lbx
 File: brazilian.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )))
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -1119,7 +1088,8 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl)
+
+(main.bbl)
 Package biblatex Info: Reference section=0 on input line 32.
 Package biblatex Info: Reference segment=0 on input line 32.
 Package hyperref Info: Link coloring OFF on input line 32.
@@ -1134,7 +1104,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 LaTeX Font Info:    Trying to load font information for OT1+minntx on input lin
 e 37.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
+(/home/dam/.miktex/texmfs/install/tex/latex/newtx/ot1minntx.fd
 File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
 )
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
@@ -1164,7 +1134,7 @@ LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
 LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
 37.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
+(/home/dam/.miktex/texmfs/install/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
@@ -1176,7 +1146,7 @@ LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
 LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
 37.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
+(/home/dam/.miktex/texmfs/install/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
@@ -1188,7 +1158,7 @@ LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
 LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
 37.
 
-(C:\Users\lazar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
+(/home/dam/.miktex/texmfs/install/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
@@ -1207,46 +1177,44 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.95pt on input line 38.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.95pt on input line 38.
-
-(introducao.tex
+ (introducao.tex
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 17.28pt on input line 1.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 17.28pt on input line 1.
-) (referencial_teorico.tex) (perfilamento.tex) (resultado.tex)
+)
+(referencial_teorico.tex) (metodologia.tex) (analise_dados.tex) (resultado.tex)
 (conclusao.tex)
 
-LaTeX Warning: Empty bibliography on input line 52.
+LaTeX Warning: Empty bibliography on input line 53.
 
 [1
 
-{C:/Users/lazar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/laza
-r/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}]
-(main.aux)
+{/home/dam/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}{/home/dam/.miktex/t
+exmfs/install/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8D00944A3E092BC273E7507D59CE6C28;672.
+(rerunfilecheck)             Checksum: BF6DDB2D9D86AF3E95C78D4CE265B05F;718.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28521 strings out of 467870
- 504506 string characters out of 5418354
- 1390546 words of memory out of 5000000
- 57003 multiletter control sequences out of 15000+600000
+ 28531 strings out of 467872
+ 500916 string characters out of 5424217
+ 1391504 words of memory out of 5000000
+ 57008 multiletter control sequences out of 15000+600000
  660791 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,6n,79p,695b,2850s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/lazar/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.p
-fb><C:/Users/lazar/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.
-pfb>
-Output written on main.pdf (1 page, 79377 bytes).
+</home/dam/.miktex/texmfs/install/fonts/type1/public/newtx/ztmb.pfb></home/da
+m/.miktex/texmfs/install/fonts/type1/public/newtx/ztmr.pfb>
+Output written on main.pdf (1 page, 78326 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 49 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
